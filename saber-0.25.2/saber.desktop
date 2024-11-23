@@ -1,8 +1,0 @@
-[Desktop Entry]
-Name=Saber
-Type=Application
-Comment=The notes app built for handwriting.
-Categories=Office;WordProcessor;
-Exec=/usr/bin/saber/saber
-Icon=/usr/bin/saber/data/flutter_assets/assets/icon/icon.svg
-Terminal=false
