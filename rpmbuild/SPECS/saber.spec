@@ -1,5 +1,5 @@
 Name:           saber
-Version:        0.25.2
+Version:        0.25.3
 Release:        1%{?dist}
 Summary:        The notes app built for handwriting.
 BuildArch:      x86_64
@@ -50,5 +50,5 @@ rm -rf $RPM_BUILD_ROOT
 /usr/share/applications/
 
 %changelog
-* Sat Nov  23 2024 Jyothish Atheendran <athi.jyothish@gmail.com> - 0.25.2
-- First RPM version being packaged
+* Sat Dec 14 2024 Jyothish Atheendran <athi.jyothish@gmail.com> - 0.25.3
+- Bumped to v.0.25.3
