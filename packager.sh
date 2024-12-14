@@ -41,7 +41,7 @@ cp /home/jyo/saber-rpm/rpmbuild/SPECS/saber.spec /home/jyo/rpmbuild/SPECS
 
 cd /home/jyo/
 
-rpmbuild -bb ~/rpmbuild/SPECS/saber.spec
+rpmbuild -ba ~/rpmbuild/SPECS/saber.spec
 
 
 
